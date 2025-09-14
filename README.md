@@ -27,7 +27,7 @@
 - [부스트코스 DATA SCIENCE PROJECTS 코칭스터디 : 2024](https://www.boostcourse.org/) 수료( 2024.01 ~ 2024.02 ) <br>
 - [LG Aimers/Data Intelligence 4기](https://lgaimers.ai/) 수료( 2024.01 ~ 2024.02 ) <br>
 - [대학생 개발 연합 동아리 UMC](https://umc.makeus.in/) 7기 SpringBoot 수료( 2024.09 ~ 2025.02 ) <br>
-- [IBK기업은행 IT글로벌개발팀](https://www.ibk.co.kr/) 인턴( 2025.01 ~ 2025.02 ) <br>
+- [IBK기업은행](https://www.ibk.co.kr/) IT글로벌개발팀 인턴( 2025.01 ~ 2025.02 ) <br>
 - [서울동행기획](https://www.donghaeng.seoul.kr/main.do) 2기 수료( 2025.03 ~ 2025.09 ) <br>
 - [일본 NTT-AT](https://www.ntt-at.com/) 인턴( 2025.07 ~ 2025.08 ) <br>
 
