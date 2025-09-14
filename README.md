@@ -71,5 +71,6 @@
 
 # Posts
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=so3659&️️)](https://github.com/so3659/velog-readme-stats) [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=so3659&tag=First️️)](https://github.com/so3659/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=so3659&️tag=IBK기업은행)](https://github.com/so3659/velog-readme-stats) [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=so3659&tag=First️️)](https://github.com/so3659/velog-readme-stats) [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=so3659&tag=Java)](https://github.com/so3659/velog-readme-stats)
+
 
